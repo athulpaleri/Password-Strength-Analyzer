@@ -19,7 +19,7 @@ Password Strength Analyzer with Custom Wordlist Generator
 
 ---
 
-🚀 How to Use:
+ How to Use:
 
 📦 Install Requirements:
 pip install zxcvbn-python
@@ -38,7 +38,6 @@ python password_tool.py generate -w "athul,2001,shadow" -o wordlist.txt
 2. Wordlist in Notepad – Contents of wordlist.txt
 3. Command-Line Wordlist Generator – CLI usage with generate command
 
-(Insert these screenshots in a folder called screenshots/ if uploading to GitHub.)
 
 ---
 
